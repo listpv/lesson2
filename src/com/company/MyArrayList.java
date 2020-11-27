@@ -206,7 +206,7 @@ public class MyArrayList <T extends Comparable<T>> {
     }
 
 
-    //  увеличение Capacity.
+    //  изменение Capacity.
     public void changeCapacity(boolean action){
 
 //        System.out.println(list.length);
